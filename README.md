@@ -1,1 +1,0 @@
-# narashil.github.io
