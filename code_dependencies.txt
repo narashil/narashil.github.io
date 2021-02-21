@@ -1,0 +1,17 @@
+Please install following libraries before running the code:
+
+pandas
+matplotlib.pyplot
+seaborn
+plotly.express
+plotly.offline
+plotly.io
+plotly.graph_objs
+datetime
+urllib.request
+json
+jupyter_dash
+dash.dependencies
+dash_html_components
+dash_core_components
+warnings
