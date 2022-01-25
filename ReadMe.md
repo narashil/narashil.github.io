@@ -10,8 +10,8 @@ Implemented a Random Forest ML model in PySpark to predict education level for a
 
 Feb 2021: Diabetes Mellitus prediction (XGBoost Classification in Python) <br>
 https://narashil.github.io/wids_2021_datathon_narayan.html <br>
-Developed a XGBoost Classification model to predict patients with Diabetes Mellitus condition based on various health features. Imputed the missing data using various methods to improve the training data. <br>
+Developed a XGBoost Classification model to predict patients with Diabetes Mellitus condition based on various health features. Imputed the missing data using various methods to improve the training data. <br> <br>
 
-May 2020: COVID-19 Real-time Data Analysis
-https://narashil.github.io/03_CS5010_Project_Code_Andris_Hombal_Narayan_Sharma_Shah.html
-Read the USA Facts data and anlayzed in variosu ways to show the impact of COVID-19 across USA. Used different librarries such as pandas, matplotlib, choropleth and plotly to visualize the impact in different ways. 
+May 2020: COVID-19 Real-time Data Analysis <br>
+https://narashil.github.io/03_CS5010_Project_Code_Andris_Hombal_Narayan_Sharma_Shah.html <br>
+Read the USA Facts data and anlayzed in various ways to show the impact of COVID-19 across USA. Used different librarries such as pandas, matplotlib, choropleth and plotly to visualize the impact in different ways. Demonstrated the implementation of the project using agile practices and functional programming.
