@@ -1,4 +1,4 @@
-This repository consists of three main projects listed below with direct links. Rest of the files in the repository are supporting librarries and images. <br> <br>
+This repository consists of three main projects listed below with direct links. Rest of the files in the repository are supporting libraries and images. <br> <br>
 
 August 2020: Rescuing survivors under tarps - Haiti Earthquake (Scikit-learn ML models)<br>
 https://narashil.github.io/Data_Mining_Project_Narayan.html<br>
